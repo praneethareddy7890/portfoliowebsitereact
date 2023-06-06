@@ -1,0 +1,15 @@
+.about {
+    background-color: #fff;
+    color: #333;
+    padding: 4rem;
+  }
+  
+  .about__container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .about__title {
+    font-size: 3rem;
+    font-weight: 700
+  }
